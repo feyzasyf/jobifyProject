@@ -10,8 +10,8 @@ Project in Action - [Jobify](https://www.jobify.live/)
 npm run install-dependencies
 ```
 
-- rename .env.temp to .env
-- setup values for - MONGO_URL, JWT_SECRET, JWT_LIFETIME
+
+
 
 ```sh
 npm start
@@ -37,4 +37,3 @@ npm start
 ```
 
 - set editor/browser side by side
-- copy/paste assets from complete project
